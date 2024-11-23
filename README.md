@@ -1,9 +1,12 @@
  # <a id="up">C# Console Micro Web Server</a>
 
-[![English](https://img.shields.io/badge/lang-English-blue)](#english)
-[![Česky](https://img.shields.io/badge/lang-Česky-red)](#česky)
+[![English](https://img.shields.io/badge/lang-English-blue)](#english)![English](https://img.shields.io/badge/lang-English-blue?logo=flag-icon-css)
+
+[![Česky](https://img.shields.io/badge/lang-Česky-red)](#česky)![Česky](https://img.shields.io/badge/lang-Česky-red?logo=flag-icon-css)
+
 
 ---
+![English](https://img.shields.io/badge/lang-English-blue?logo=flag-icon-css)
 
 ## <a id="english"></a> English
 
@@ -60,6 +63,7 @@
 ---
 
 
+![Česky](https://img.shields.io/badge/lang-Česky-red?logo=flag-icon-css)
 
 ## <a id="česky"></a> Česky
 
