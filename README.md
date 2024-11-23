@@ -60,7 +60,7 @@
 &copy; Marek Loníček, 23.11.2024
 
 
-[!https://img.shields.io/badge/↑_UP_↑-blue)](#up)
+[[UP]!https://img.shields.io/badge/↑_UP_↑-blue)](#up)
 
 ---
 
@@ -118,7 +118,7 @@
 &copy; Marek Loníček, 23.11.2024
 
 
-[!(https://img.shields.io/badge/↑_NAHORU_↑-blue)](#up)
+[![UP](https://img.shields.io/badge/↑_NAHORU_↑-blue)](#up)
 
 ---
 
