@@ -8,7 +8,7 @@
 
 
 
-## <a id="english"></a> English
+## <a id="english"></a> Welcome!
 
 ### I have developed a lightweight micro web server in C#, designed to run directly from the console. It is simple, efficient, and allows for immediate testing and data storage.
 
@@ -65,7 +65,7 @@
 
 
 
-## <a id="česky"></a> Česky
+## <a id="česky"></a> Vítejte!
 
 ### Vytvořil jsem lehký mikro webový server v C#, který běží přímo z konzole. Je jednoduchý, efektivní a umožňuje okamžité testování a ukládání dat.
 
