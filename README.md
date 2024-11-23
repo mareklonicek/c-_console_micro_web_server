@@ -1,9 +1,6 @@
  # <a id="up">C# Console Micro Web Server</a>
 
-[![English](https://img.shields.io/badge/lang-English-blue)](#english) 
-
-
-[![Česky](https://img.shields.io/badge/lang-Česky-red)](#česky
+[![English](https://img.shields.io/badge/lang-English-blue)](#english) [![Česky](https://img.shields.io/badge/lang-Česky-red)](#česky
 
 
 
