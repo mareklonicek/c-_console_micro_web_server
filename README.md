@@ -1,32 +1,71 @@
-# C# console micro web server
+# C# Console Micro Web Server
 
-
-### I have built a custom micro web server in C# that is running from the console environment.
----
-<div style="border-left: 2px solid black; height: 100px;">|a</div>
-
-## Obsah
-1. [Stažení](#stažení)
-2. [Požadavky](#požadavky)
-3. [Instalace](#instalace)
-4. [Použití](#použití)
-5. [Příspěvky](#příspěvky)
-6. [Licence](#licence)
+[![English](https://img.shields.io/badge/lang-English-blue)](#english)
+[![Česky](https://img.shields.io/badge/lang-Česky-red)](#česky)
 
 ---
 
-## Stažení
+## <a id="english"></a> English
 
-1. Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře.
-2. Vyberte **Download ZIP** nebo použijte Git:
-   ```bash
-   git clone <URL repozitáře>
+### I have developed a lightweight micro web server in C#, designed to run directly from the console. It is simple, efficient, and allows for immediate testing and data storage.
 
+---
+
+### Table of Contents
+1. [Download](#download)
+2. [Setup and Installation](#setup-and-installation)
+3. [How to Use](#how-to-use)
+4. [License](#license)
+
+---
+
+### Download
+
+1. Click on the **Code** (green button) in the upper-right corner of the repository.
+2. Select **Download ZIP**.
+3. Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
+4. The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser.
+5. All data is automatically stored in the provided CSV and XML files.
+
+---
 
 &copy; Marek Loníček, 23.11.2024
 
+---
 
-#
-![Alt text](sitovka.png)
+![Screenshot](sitovka.png)
+
+---
+
+## <a id="česky"></a> Česky
+
+### Vytvořil jsem lehký mikro webový server v C#, který běží přímo z konzole. Je jednoduchý, efektivní a umožňuje okamžité testování a ukládání dat.
+
+---
+
+### Obsah
+1. [Stažení](#stažení)
+2. [Instalace a nastavení](#instalace-a-nastavení)
+3. [Použití](#použití)
+4. [Licence](#licence)
+
+---
+
+### Stažení
+
+1. Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře.
+2. Vyberte **Download ZIP**.
+3. Rozbalte stažený ZIP soubor na vašem počítači. Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
+4. Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče.
+5. Data se automaticky ukládají do přiložených souborů CSV a XML.
+
+---
+
+&copy; Marek Loníček, 23.11.2024
+
+---
+
+![Screenshot](sitovka.png)
+
 
 
