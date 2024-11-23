@@ -19,13 +19,31 @@
 
 ---
 
-### Download
+### <a id="download"></a> 1. Download
 
-1. Click on the **Code** (green button) in the upper-right corner of the repository. Select **Download ZIP**.
-2. Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
-3. The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser. All data is automatically stored in the provided CSV and XML files.
-4. &copy; Marek Loníček, 23.11.2024
+→ Click on the **Code** (green button) in the upper-right corner of the repository. Select **Download ZIP**. Extract the ZIP file on your computer.
+![Screenshot](a.png)
 
+---
+### <a id="setup-and-installation"></a> 2. Setup and Installation
+
+→ Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
+![Screenshot](b.png)
+
+---
+### <a id="how-to-use"></a> 3. How to Use
+
+→ The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser. All data is automatically stored in the provided CSV and XML files.
+
+![Screenshot](c.png)
+![Screenshot](sitovka.png)
+![Screenshot](d.png)
+![Screenshot](e.png)
+
+---
+### <a id="#license"></a> 4. License
+
+→ The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser. All data is automatically stored in the provided CSV and XML files.
 
 ---
 
@@ -43,22 +61,30 @@
 
 ---
 
-### Stažení
+### <a id="stažení"></a> Stažení
 
-1. Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře. Vyberte **Download ZIP**.
-2. Rozbalte stažený ZIP soubor na vašem počítači. Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
-3. Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče. Data se automaticky ukládají do přiložených souborů CSV a XML.
-4. &copy; Marek Loníček, 23.11.2024
-
+→ Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře. Vyberte **Download ZIP**. Rozbalte ZIP soubor na vašem počítači.
+![Screenshot](a.png)
 
 ---
+### <a id="instalace-a-nastavení"></a> Instalace a nastavení
 
-![Screenshot](a.png)
+→ Rozbalte ZIP soubor na vašem počítači. Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
 ![Screenshot](b.png)
+
+---
+### <a id="použití"></a> Použití
+
+→ Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče. Data se automaticky ukládají do přiložených souborů CSV a XML.
+
 ![Screenshot](c.png)
+![Screenshot](sitovka.png)
 ![Screenshot](d.png)
 ![Screenshot](e.png)
-![Screenshot](sitovka.png)
 
+---
+### <a id="licence"></a> Licence
 
+→ Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče. Data se automaticky ukládají do přiložených souborů CSV a XML.
 
+---
