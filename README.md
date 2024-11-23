@@ -29,10 +29,6 @@
 
 ---
 
-![Screenshot](sitovka.png)
-
----
-
 ## <a id="česky"></a> Česky
 
 ### Vytvořil jsem lehký mikro webový server v C#, který běží přímo z konzole. Je jednoduchý, efektivní a umožňuje okamžité testování a ukládání dat.
