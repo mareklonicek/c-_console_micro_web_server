@@ -21,9 +21,9 @@
 
 ### <a id="download"></a> 1. Download
 
-→ Click on the **Code** (green button) in the upper-right corner of the repository. 
+→ Click on the **`Code`** (green button) in the upper-right corner of the repository. 
 
-→ Select **Download ZIP**. Extract the ZIP file on your computer.
+→ Select **`Download ZIP`**. Extract the ZIP file on your computer.
 
 ![Screenshot](a.png)
 
@@ -32,7 +32,7 @@
 
 → Extract the ZIP file on your computer.
 
-→ Locate and run the executable file **sitovka.exe** (confirm any firewall prompts if necessary).
+→ Locate and run the executable file **`sitovka.exe`** (confirm any firewall prompts if necessary).
 
 ![Screenshot](b.png)
 
@@ -77,9 +77,9 @@
 
 ### <a id="stažení"></a> Stažení
 
-→ Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře. 
+→ Klikněte na **`Code`** (zelené tlačítko) v pravém horním rohu repozitáře. 
 
-→ Vyberte **Download ZIP**. Rozbalte ZIP soubor na vašem počítači.
+→ Vyberte **`Download ZIP`**. Rozbalte ZIP soubor na vašem počítači.
 
 ![Screenshot](a.png)
 
@@ -88,7 +88,7 @@
 
 → Rozbalte ZIP soubor na vašem počítači. 
 
-→ Najděte a spusťte spustitelný soubor **sitovka.exe** (potvrďte případná upozornění od firewallu).
+→ Najděte a spusťte spustitelný soubor **`sitovka.exe`** (potvrďte případná upozornění od firewallu).
 
 ![Screenshot](b.png)
 
