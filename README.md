@@ -3,6 +3,7 @@
 
 ### I have built a custom micro web server in C# that is running from the console environment.
 ---
+<div style="border-left: 2px solid black; height: 100px;">|a</div>
 
 ## Obsah
 1. [Stažení](#stažení)
