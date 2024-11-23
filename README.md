@@ -60,7 +60,7 @@
 &copy; Marek Loníček, 23.11.2024
 
 
-[[UP]!https://img.shields.io/badge/↑_UP_↑-blue)](#up)
+[![UP](https://img.shields.io/badge/↑_UP_↑-blue)](#up)
 
 ---
 
