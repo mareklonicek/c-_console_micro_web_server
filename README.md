@@ -97,7 +97,7 @@
 
 → Program se spustí v konzoli.
 
-→ Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče.
+→ Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu '"**http://localhost:8888**"' do svého prohlížeče.
 
 → Data se automaticky ukládají do přiložených souborů CSV a XML.
 
