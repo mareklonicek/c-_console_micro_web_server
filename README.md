@@ -55,7 +55,7 @@
 ![Screenshot](e.png)
 
 ---
-### <a id="#license"></a> 4. License
+### <a id="license"></a> 4. License
 
 &copy; Marek Loníček, 23.11.2024
 
