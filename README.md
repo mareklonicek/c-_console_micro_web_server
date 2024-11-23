@@ -21,15 +21,11 @@
 
 ### Download
 
-1. Click on the **Code** (green button) in the upper-right corner of the repository.
-2. Select **Download ZIP**.
-3. Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
-4. The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser.
-5. All data is automatically stored in the provided CSV and XML files.
+1. Click on the **Code** (green button) in the upper-right corner of the repository. Select **Download ZIP**.
+2. Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
+3. The program will launch a console. By default, the server should open in Chrome. If not, manually enter the URL "**http://localhost:8888**" into your browser. All data is automatically stored in the provided CSV and XML files.
+4. &copy; Marek Loníček, 23.11.2024
 
----
-
-&copy; Marek Loníček, 23.11.2024
 
 ---
 
@@ -53,15 +49,11 @@
 
 ### Stažení
 
-1. Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře.
-2. Vyberte **Download ZIP**.
-3. Rozbalte stažený ZIP soubor na vašem počítači. Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
-4. Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče.
-5. Data se automaticky ukládají do přiložených souborů CSV a XML.
+1. Klikněte na **Code** (zelené tlačítko) v pravém horním rohu repozitáře. Vyberte **Download ZIP**.
+2. Rozbalte stažený ZIP soubor na vašem počítači. Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
+3. Program se spustí v konzoli. Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu "**http://localhost:8888**" do svého prohlížeče. Data se automaticky ukládají do přiložených souborů CSV a XML.
+4. &copy; Marek Loníček, 23.11.2024
 
----
-
-&copy; Marek Loníček, 23.11.2024
 
 ---
 
