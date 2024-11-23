@@ -30,9 +30,9 @@
 ---
 ### <a id="setup-and-installation"></a> 2. Setup and Installation
 
-→ Extract the ZIP file on your computer. Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
+→ Extract the ZIP file on your computer.
 
-→ Locate and run the executable file "**sitovka.exe**" (confirm any firewall prompts if necessary).
+→ Locate and run the executable file **sitovka.exe** (confirm any firewall prompts if necessary).
 
 ![Screenshot](b.png)
 
@@ -41,7 +41,7 @@
 
 → The program will launch a console. 
 
-→ By default, the server should open in Chrome. If not, manually enter the URL `"**http://localhost:8888**"` into your browser. 
+→ By default, the server should open in Chrome. If not, manually enter the URL **`http://localhost:8888`** into your browser. 
 
 → All data is automatically stored in the provided CSV and XML files.
 
@@ -88,7 +88,7 @@
 
 → Rozbalte ZIP soubor na vašem počítači. 
 
-→ Najděte a spusťte spustitelný soubor "**sitovka.exe**" (potvrďte případná upozornění od firewallu).
+→ Najděte a spusťte spustitelný soubor **sitovka.exe** (potvrďte případná upozornění od firewallu).
 
 ![Screenshot](b.png)
 
@@ -97,7 +97,7 @@
 
 → Program se spustí v konzoli.
 
-→ Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu `"**http://localhost:8888**"` do svého prohlížeče.
+→ Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu **`http://localhost:8888`** do svého prohlížeče.
 
 → Data se automaticky ukládají do přiložených souborů CSV a XML.
 
