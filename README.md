@@ -45,7 +45,7 @@
 
 → The program will launch a console. 
 
-→ By default, the server should open in Chrome. If not, manually enter the URL **`http://localhost:8888`** into your browser. 
+→ Paste the server URL address **`http://localhost:8888`** into Your favorite web browser - Chrome, Edge, Firefox, Opera,Safari,...
 
 → All data is automatically stored in the provided CSV and XML files.
 
@@ -103,7 +103,7 @@
 
 → Program se spustí v konzoli.
 
-→ Výchozí nastavení otevře server v prohlížeči Chrome. Pokud ne, zadejte adresu **`http://localhost:8888`** do svého prohlížeče.
+→ Vložte adresu serveru **`http://localhost:8888`** do Vašeho oblíbeného webového prohlížeče – Chrome, Edge, Firefox, Opera, Safari,...
 
 → Data se automaticky ukládají do přiložených souborů CSV a XML.
 
