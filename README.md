@@ -7,3 +7,6 @@
 
 &copy; Marek Loníček, 23.11.2024
 
+![Alt text](sitovka.png)
+
+
