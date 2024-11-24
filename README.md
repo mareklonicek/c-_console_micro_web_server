@@ -19,7 +19,8 @@
 1. [Download](#download)
 2. [Setup and Installation](#setup-and-installation)
 3. [How to Use](#how-to-use)
-4. [License](#license)
+4. [Dokumentation](#docs-eng)
+5. [License](#license)
 
 ---
 
@@ -55,7 +56,13 @@
 ![Screenshot](e.png)
 
 ---
-### <a id="license"></a> 4. License
+### <a id="docs-eng"></a> 4. Documentation
+
+→ English html documentation is in the **`documentation_eng.html`** file.
+
+---
+
+### <a id="license"></a> 5. License
 
 &copy; Marek Loníček, 23.11.2024
 
@@ -77,7 +84,8 @@
 1. [Stažení](#stažení)
 2. [Instalace a nastavení](#instalace-a-nastavení)
 3. [Použití](#použití)
-4. [Licence](#licence)
+4. [Dokumentace](#docs-cze)
+5. [Licence](#licence)
 
 ---
 
@@ -113,7 +121,13 @@
 ![Screenshot](e.png)
 
 ---
-### <a id="licence"></a> Licence
+
+### <a id="docs-cze"></a> 4. Documentace
+
+→ Česká html dokumentace je v **`documentation_cze.html`** souboru.
+
+---
+### <a id="licence"></a> 5. Licence
 
 &copy; Marek Loníček, 23.11.2024
 
