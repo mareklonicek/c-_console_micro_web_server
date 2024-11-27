@@ -11,7 +11,7 @@
 
 ## <a id="english"></a> Welcome!
 
-### I have developed a lightweight micro web server in C#, designed to run directly from the console. It is simple, efficient, and allows for immediate testing and data storage.
+### I have developed a lightweight micro web server in C#, designed to run directly from the console. It is simple and efficient, enabling immediate testing and data management. The application supports data storage and retrieval using CSV and XML files, making it ideal for lightweight applications or prototyping.
 
 ---
 
