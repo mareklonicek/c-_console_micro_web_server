@@ -58,7 +58,7 @@
 ---
 ### <a id="docs-eng"></a> 4. Documentation
 
-→ English html documentation is in the **`documentation_eng.html`** file.
+→ English html documentation is in the **`documentation.rar`** file.
 
 ---
 
@@ -124,7 +124,7 @@
 
 ### <a id="docs-cze"></a> 4. Documentace
 
-→ Česká html dokumentace je v **`documentation_cze.html`** souboru.
+→ Česká html dokumentace je v **`documentation.rar`** souboru.
 
 ---
 ### <a id="licence"></a> 5. Licence
