@@ -1,7 +1,7 @@
  # <a id="up">C# Console Micro Web Server</a>
 
 ## Project Overview Video on YouTube  
-![YouTube Icon](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)  
+![YouTube Icon](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png width="30" )  
 
 [Watch the video here](https://www.youtube.com/watch?v=zTt-5AbQsSk)
 
